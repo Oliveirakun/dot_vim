@@ -9,4 +9,5 @@ My vim configuration
  - Install oh-my-zsh(recommended): https://github.com/robbyrussell/oh-my-zsh
  - Install Vundle: https://github.com/VundleVim/Vundle.vim
  - Clone this repository and copy the vimrc file to ~/.vimrc
+ - Launch vim and run :PluginInstall
  
