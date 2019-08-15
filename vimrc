@@ -60,8 +60,8 @@
 
     " ViM plugins.
 
-    Plugin 'kien/ctrlp.vim'
-
+    Plugin 'ctrlpvim/ctrlp.vim'
+    
     Plugin 'scrooloose/nerdtree'
 
     Plugin 'jistr/vim-nerdtree-tabs'
@@ -188,6 +188,15 @@
 
 
    
+
+""""""""""""""""""""
+
+" Ctrlp Settings " 
+
+""""""""""""""""""""
+
+  let g:ctrlp_max_files=0
+  let g:ctrlp_max_depth=100
 
 
 
